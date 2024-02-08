@@ -2,6 +2,10 @@
 
 ## Introducción a Vue
 
+PRÓXIMAMENTE...
+
+![TODO](assets/todo.png)
+
 ---
 
 ## Enlaces de interés
@@ -14,6 +18,7 @@
 - <https://nx.dev/>
 - <https://nx.dev/recipes/vite/set-up-vite-manually>
 - <https://roadmap.sh/vue>
+- <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started>
 
 ## Licencia
 
