@@ -6,8 +6,8 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <a href="#">
-    <img src="https://alxgcrz.com/assets/COVER03.png" alt="Cover" title="Cover" width="40%">
+  <a href="https://alxgcrz.com" target="_blank">
+    <img src="https://alxgcrz.com/assets/COVER03.png" alt="En desarrollo" title="En desarrollo" width="40%">
   </a>
 </p>
 <!-- markdownlint-enable MD033 -->
