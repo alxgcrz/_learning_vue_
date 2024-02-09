@@ -2,9 +2,15 @@
 
 ## Introducción a Vue
 
-PRÓXIMAMENTE...
+... EN DESARROLLO...
 
-![TODO](assets/todo.png)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="#">
+    <img src="https://alxgcrz.com/assets/COVER03.png" alt="Cover" title="Cover" width="40%">
+  </a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
