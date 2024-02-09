@@ -7,7 +7,7 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
   <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/COVER03.png" alt="En desarrollo" title="En desarrollo" width="40%">
+    <img src="https://alxgcrz.com/assets/COVER05.png" alt="En desarrollo" title="En desarrollo" width="40%">
   </a>
 </p>
 <!-- markdownlint-enable MD033 -->
