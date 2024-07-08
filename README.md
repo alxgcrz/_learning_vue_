@@ -1,5 +1,7 @@
 # Vue.js - Progressive JavaScript Framework
 
+... EN DESARROLLO ...
+
 ## Introducción a Vue.js
 
 **Vue.js**, también conocido simplemente como Vue, es un framework progresivo de JavaScript utilizado para construir interfaces de usuario interactivas. Desarrollado por Evan You y lanzado por primera vez en 2014, Vue ha ganado rápidamente popularidad gracias a su enfoque flexible y su curva de aprendizaje suave.
@@ -17,14 +19,6 @@ Como características principales destacan:
 - **Directivas**: Vue ofrece un conjunto de directivas que facilitan la manipulación del DOM de manera declarativa. Ejemplos notables incluyen `v-bind` para la vinculación de atributos y `v-if` para el renderizado condicional.
 
 - **Simplicidad y flexibilidad**: con un tamaño reducido y una curva de aprendizaje gradual, Vue.js es accesible para desarrolladores de todos los niveles. Además, su flexibilidad permite integrarlo fácilmente en proyectos existentes.
-
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/asset_05_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
 
 ## Instalación y Configuración
 
@@ -194,7 +188,7 @@ Como características principales destacan:
 
 ---
 
-## Enlaces de interés
+## Referencias
 
 - <https://lenguajejs.com/vuejs/>
 - <https://vuejs.org/>
@@ -205,6 +199,7 @@ Como características principales destacan:
 - <https://nx.dev/recipes/vite/set-up-vite-manually>
 - <https://roadmap.sh/vue>
 - <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started>
+- <https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-1--c75>
 
 ## Licencia
 
