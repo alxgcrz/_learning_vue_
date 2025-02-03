@@ -188,18 +188,29 @@ Como características principales destacan:
 
 ---
 
-## Referencias
+## Enlaces
 
-- <https://lenguajejs.com/vuejs/>
-- <https://vuejs.org/>
-- <https://nuxt.com/>
-- <https://vueschool.io/courses>
-- <https://router.vuejs.org/>
-- <https://nx.dev/>
-- <https://nx.dev/recipes/vite/set-up-vite-manually>
+### [Vue]
+
+- 🔸 [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
+- 👓 <https://github.com/vuejs/awesome-vue>
+
+### [Vue] - [Learn]
+
+- [Introducción a Vue.js](https://lenguajejs.com/vuejs/)
 - <https://roadmap.sh/vue>
-- <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started>
-- <https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-1--c75>
+- <https://vueschool.io/courses>
+- [Vue.js Serie in Dev.to](https://dev.to/hi_iam_chris/series/24385)
+
+### [Vue] - [Frameworks]
+
+- [The official Router for Vue.js](https://router.vuejs.org/)
+- [Nuxt.js - The Progressive Vue.js Framework](https://nuxt.com/)
+- [Quasar is built on Vue.js and provides a solution for creating responsive web apps, mobile apps and desktop apps](https://quasar.dev/)
+
+### [Vue] - [UI]
+
+- [Vuetify.js - Material Design Component Framework](https://vuetifyjs.com/en/)
 
 ## Licencia
 
